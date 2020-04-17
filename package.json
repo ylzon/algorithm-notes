@@ -1,0 +1,23 @@
+{
+  "name": "algorithm-notes",
+  "version": "1.0.0",
+  "description": "算法笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylzon/algorithm-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ylzon/algorithm-notes/issues"
+  },
+  "homepage": "https://github.com/ylzon/algorithm-notes#readme",
+  "devDependencies": {
+    "prettier": "^2.0.4"
+  }
+}
